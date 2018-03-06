@@ -22,6 +22,9 @@ Initialize weights in three methods:
     b. initialize to be Normal distribution
     c. initialize to be Glorot distribution
     
+    
+![](https://github.com/zhangdiBeijing/LearningRepresentation/tree/master/MLP/images/average loss with 3 setups.png)
+    
 Results:
 --------
 
