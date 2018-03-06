@@ -8,7 +8,7 @@ Goal:
 Model: 
 
     input: 784 units
-    hidden layer 1 : 250 units
+    hidden layer 1 : 500 units
     hidden layer 2 : 250 units
     output : 10 units
 
