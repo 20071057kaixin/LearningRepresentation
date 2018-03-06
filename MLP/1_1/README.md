@@ -20,7 +20,17 @@ Initialize weights in three methods:
     
 Result:
 
+    a. initialize to be zeros
     
+        Average loss started from a relatively small value and  decreased slowly to converge.
+
+    b. initialize to be Normal distribution
+    
+        Average loss started from a high value and decreased sharply in the early epochs. Then it converged nearly to the same values with situation a.
+
+    c. initialize to be Glorot distribution
+    
+        Average loss began with the smallest point and decreased slowly to converge. Using this setup, model can converge to the lower loss values.
 
 
 
