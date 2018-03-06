@@ -32,7 +32,7 @@ Result:
     c. initialize to be Glorot distribution
     
         Average loss began with the smallest point and decreased slowly to converge. 
-        Using this setup, model can converge to the lower loss values.
+        Using this setup, model can converge to zero with best performance.
 
 
 
