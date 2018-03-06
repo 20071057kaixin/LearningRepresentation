@@ -23,7 +23,7 @@ Initialize weights in three methods:
     c. initialize to be Glorot distribution
     
     
-![](https://github.com/zhangdiBeijing/LearningRepresentation/tree/master/MLP/images/average loss with 3 setups.png)
+![](https://github.com/zhangdiBeijing/LearningRepresentation/tree/master/MLP/images/average-loss-with-3-setups.png)
     
 Results:
 --------
