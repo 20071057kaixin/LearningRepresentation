@@ -11,6 +11,7 @@ Model:
 ------
 
     Training dataset : 50000 samples
+    
     Input: 784 units
     Hidden layer 1 : 500 units
     Hidden layer 2 : 250 units
