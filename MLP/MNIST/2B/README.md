@@ -53,7 +53,9 @@ Results :
 ---------
 
     The error of validation did not increase in two figures even though we double model capacity.
+    
     It means the model did not appear to be overfitting with high variance. 
+    
     These may be benefited from some reasons:
         a. Large datasets with low noise
         b. Proper numbers of parameters
