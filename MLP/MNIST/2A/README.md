@@ -27,26 +27,19 @@ Initialize weights :
     Initialize to be Glorot distribution
 
     
-Results:
---------
+Hyper parameters :
+-------------------
 
+    Learning rate = 0.01
+    Momentum = 0.9
+    batch size = 40
+    epochs = 10
     
-![](https://github.com/zhangdiBeijing/LearningRepresentation/blob/master/MLP/images/average-loss-with-3-setups.png)
-
-
-    a. Initialize to be zeros
     
-        Average loss started from a relatively small value and  decreased slowly to converge.
+![](LearningRepresentation/MLP/images/hyper-parameters(accuracy-more-than-97%).png)
 
-    b. Initialize to be Normal distribution
-    
-        Average loss started from a high value and decreased sharply in the early epochs.
-        Then it converged nearly to the same values with situation a.
 
-    c. Initialize to be Glorot distribution
-    
-        Average loss began with the smallest point and decreased slowly to converge. 
-        Using this setup, model can converge to zero with best performance.
+
 
 
 
