@@ -36,7 +36,8 @@ Hyper parameters :
     epochs = 10
     
     
-![](https://github.com/zhangdiBeijing/LearningRepresentation/blob/master/MLP/images/hyper-parameters(accuracy-more-than-97%25).png)
+![](https://github.com/zhangdiBeijing/LearningRepresentation/blob/master/MLP/images/error-of-first-model.png)
+![]()
 
 
 
