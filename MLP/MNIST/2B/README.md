@@ -37,7 +37,7 @@ Hyper parameters :
     
     
 ![](https://github.com/zhangdiBeijing/LearningRepresentation/blob/master/MLP/images/error-of-first-model.png)
-![]()
+![](https://github.com/zhangdiBeijing/LearningRepresentation/blob/master/MLP/images/error-of-second-model(double-parameters).png)
 
 
 
