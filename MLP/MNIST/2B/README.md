@@ -43,7 +43,7 @@ Hyper parameters :
     Learning rate = 0.01
     Momentum = 0.9
     batch size = 40
-    epochs = 10
+    epochs = 100
     
     
 ![](https://github.com/zhangdiBeijing/LearningRepresentation/blob/master/MLP/images/error-of-first-model.png)
